@@ -1,0 +1,16 @@
+Model\Conexion.class
+Model\Marca.class
+View\RegistrarMaquinaria$2.class
+Model\Usuario.class
+View\MenuView$1.class
+Model\Maquinaria.class
+View\LoginView$1.class
+com\mycompany\mavenproject\Mavenproject$1.class
+Controller\MaquinariaController.class
+View\MenuView$2.class
+View\LoginView.class
+View\RegistrarMaquinaria$1.class
+Controller\LoginController.class
+View\MenuView.class
+com\mycompany\mavenproject\Mavenproject.class
+View\RegistrarMaquinaria.class
